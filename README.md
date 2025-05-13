@@ -4,4 +4,4 @@
 📚 Recently completed a Post Diploma in Computer Application (PDCA)
 🌱 Always learning and exploring new technologies
 🚀 I love building real-world projects that solve everyday problems
-🔗 Let's connect 
+🔗 Let's be connected 
