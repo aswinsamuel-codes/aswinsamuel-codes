@@ -6,3 +6,6 @@
 🚀 I love building real-world projects that solve everyday problems
 🔗 Let's be connected 
 Linkedin -www.linkedin.com/in/aswinsamuel
+
+RESUME
+[RESUME.pdf](https://github.com/user-attachments/files/20185846/RESUME.pdf)
