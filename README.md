@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
  Hi there, I'm Aswin Samuel!<br>🎓 I'm a B.Tech Computer Science (AIML) student at Karunya University<br>💡 Passionate about Artificial Intelligence, Machine Learning, and Software Development<br>📚 Recently completed a Post Diploma in Computer Application (PDCA)<br>🌱  learning and exploring new technologies<br>🚀 I love building real-world projects that solve everyday problems<br>
 
 ## 🌐 Socials:
