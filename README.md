@@ -1,8 +1,9 @@
 # Aswin Samuel.A
 
-## 👋 Hi, I'm Aswin Samuel.A
-
 ### About Me:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=750&lines=AI%2FML+Intern+%7C+Technology+for+a+Better+Tomorrow+%7C+Rooted+in+Ethics+and+Impact" alt="Typing SVG" />
+</a>
 
 🎓 I'm a **B.Tech Computer Science (AIML)** student at **Karunya University**  
 📜 Completed a **Post Diploma in Computer Application (PDCA)**  
