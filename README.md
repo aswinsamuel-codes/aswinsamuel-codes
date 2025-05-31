@@ -1,22 +1,29 @@
 # Aswin Samuel.A
 
-### About Me:
-
-<h1 align="center" style="font-size: 40px;">👋 Hi, I'm <span style="color: #B0F706;">Aswin Samuel.A</span></h1>
+## 👋 Hi there, I'm Aswin Samuel.A
 
 <!-- Typing SVGs -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=750&lines=AI%2FML+Intern+%7C+Technology+for+a+Better+Tomorrow" alt="Typing SVG Line 1" />
-</a>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=750&lines=Rooted+in+Ethics+and+Impact" alt="Typing SVG Line 2" />
-</a>
-🎓 I'm a **B.Tech Computer Science (AIML)** student at **Karunya University**  
-📜 Completed a **Post Diploma in Computer Application (PDCA)**  
-💡 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**  
-🌱 Constantly **learning and exploring** new technologies  
-🚀 I love building **real-world projects** that solve everyday problems  
-🤝 Always open to **collaboration** and innovative ideas  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=750&lines=AI%2FML+Intern+%7C+Technology+for+a+Better+Tomorrow" alt="Typing SVG Line 1" />
+  </a><br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=750&lines=Rooted+in+Ethics+and+Impact" alt="Typing SVG Line 2" />
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🎓 I'm a **B.Tech Computer Science (AIML)** student at **Karunya University**  
+- 📜 Completed a **Post Diploma in Computer Application (PDCA)**  
+- 💡 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**  
+- 🌱 Constantly **learning and exploring** new technologies  
+- 🚀 I love building **real-world projects** that solve everyday problems  
+- 🤝 Always open to **collaboration** and innovative ideas  
+
+---
 
 ---
 
