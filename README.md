@@ -1,21 +1,24 @@
-# About Me:
+# Aswin Samuel.A
 
-<h1 align="left">👋 Hi, I'm <span style="font-size: 40px; color: #B0F706;">Aswin Samuel.A</span></h1>
+## 👋 Hi, I'm Aswin Samuel.A
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0F706&width=700&lines=AI%2FML+Intern+%7C+Technology+for+a+Better+Tomorrow" alt="Typing SVG" />
-</a>
+### About Me:
+
 🎓 I'm a **B.Tech Computer Science (AIML)** student at **Karunya University**  
 📜 Completed a **Post Diploma in Computer Application (PDCA)**  
 💡 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**  
 🌱 Constantly **learning and exploring** new technologies  
 🚀 I love building **real-world projects** that solve everyday problems  
-🤝 Always open to **collaboration** and innovative ideas
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aswin_samuel__) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswinsamuel) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswinsamuelofficial@gmail.com)
+🤝 Always open to **collaboration** and innovative ideas  
 
+---
+
+### 🌐 Connect with me:
+
+[![Name - Aswin Samuel.A](https://img.shields.io/badge/Name-Aswin_Samuel.A-blueviolet?style=flat-square&logo=github&logoColor=white)](https://github.com/aswinsamuel-codes)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aswin_samuel__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswinsamuel)
+[![Email](https://img.shields.io/badge/Email-aswinsamuelofficial%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aswinsamuelofficial@gmail.com)
 ---
 
 # 💻 Tech Stack:
