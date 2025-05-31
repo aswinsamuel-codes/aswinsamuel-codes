@@ -1,6 +1,7 @@
 # About Me:
- Hi there, I'm Aswin Samuel!<br>🎓 I'm a B.Tech Computer Science (AIML) student at Karunya University<br>💡 Passionate about Artificial Intelligence, Machine Learning, and Software Development<br>📚 Recently completed a Post Diploma in Computer Application (PDCA)<br>🌱  learning and exploring new technologies<br>🚀 I love building real-world projects that solve everyday problems<br>
-
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0F706&width=435&lines=Aswin+Samuel.A;AI%2FML+Intern+%7C+Technology+for+a+Better+Tomorrow+%7C+Rooted+in+Ethics+and+Impact" alt="Typing SVG" />
+</a>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aswin_samuel__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswinsamuel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswinsamuelofficial@gmail.com) 
 
