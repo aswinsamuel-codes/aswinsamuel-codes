@@ -1,8 +1,10 @@
 # About Me:
+
+<h1 align="left">👋 Hi, I'm <span style="font-size: 40px; color: #B0F706;">Aswin Samuel.A</span></h1>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0F706&width=700&lines=Aswin+Samuel.A;AI%2FML+Intern+%7C+Technology+for+a+Better+Tomorrow+%7C+Rooted+in+Ethics+and+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0F706&width=700&lines=AI%2FML+Intern+%7C+Technology+for+a+Better+Tomorrow" alt="Typing SVG" />
 </a>
-  
 🎓 I'm a **B.Tech Computer Science (AIML)** student at **Karunya University**  
 📜 Completed a **Post Diploma in Computer Application (PDCA)**  
 💡 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**  
