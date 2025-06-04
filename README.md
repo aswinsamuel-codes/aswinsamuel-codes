@@ -1,7 +1,6 @@
 
 
 ## 👋 Hi there, I'm Aswin Samuel.A
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/aswin_samuel__](https://aswinsamuel-codes.github.io/aswin-portfolio/))
 
 <!-- Typing SVGs -->
 <p align="center">
