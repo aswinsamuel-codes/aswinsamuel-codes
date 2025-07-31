@@ -34,6 +34,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=aswinsamuel-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aswinsamuel-codes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsamuel-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🎓 Certifications
+
+- [![Cisco IoT](https://img.shields.io/badge/Cisco-IoT%20%26%20Digital%20Transformation-blue?style=flat-square&logo=cisco)](https://www.credly.com/badges/YOUR_CREDENTIAL_LINK)  
+- [![Forage](https://img.shields.io/badge/Forage-Solutions%20Architecture%20Simulation-brightgreen?style=flat-square)](https://www.theforage.com/credentials/YOUR_LINK)
+- [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Cloud%20Engineering-lightgrey?style=flat-square&logo=google-cloud)](YOUR_CERTIFICATE_LINK)
+- [![Python](https://img.shields.io/badge/Python%20Developer-Certificate-yellow?style=flat-square&logo=python)](YOUR_CERTIFICATE_LINK)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aswinsamuel-codes&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
