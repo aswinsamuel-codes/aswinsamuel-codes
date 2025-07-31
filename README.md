@@ -43,7 +43,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aswinsamuel-codes&icon=8&color=5)](https://visitcount.itsvg.in)
-## 📈 Weekly Development Breakdown
-[![Ashwin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aswinsamuel-codes&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/aswinsamuel-codes/github-readme-activity-graph)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
