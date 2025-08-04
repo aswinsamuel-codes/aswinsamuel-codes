@@ -45,7 +45,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=aswinsamuel-codes&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+ <div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=aswinsamuel-codes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aswinsamuel-codes&icon=8&color=5)](https://visitcount.itsvg.in)
