@@ -54,7 +54,7 @@ Built as a step toward emotionally adaptive personal AI systems.
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Top 6 in Google Hackathon 2025 (India Region)** – Recognized for real-world innovation in AI + accessibility tech.  
+- 🥇 **Top 6 in Google Hackathon 2025 ** – Recognized for real-world innovation in AI + accessibility tech.  
 - 💡 **Finalist – MSME Innovation Challenge** for *Digital Twin Healthcare System* proposal.  
 - 🤖 **AI Innovator at Karunya Innovation & Design Studio (KIDS)** – Mentored and developed advanced AI prototypes.  
 - 🧠 **Open Source Contributor** – Actively building and sharing AI-driven repositories on GitHub.  
