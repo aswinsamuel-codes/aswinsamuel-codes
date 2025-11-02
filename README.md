@@ -3,49 +3,8 @@
 <!-- ========================================================= -->
 
 <!-- Glitching SVG Title — paste this block into your README.md -->
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" preserveAspectRatio="xMidYMid meet">
-  <defs>
-    <filter id="grain">
-      <feTurbulence baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="turb"/>
-      <feColorMatrix type="saturate" values="0" in="turb" result="mono" />
-      <feBlend in="SourceGraphic" in2="mono" mode="overlay"/>
-    </filter>
-    <linearGradient id="g1" x1="0" x2="1">
-      <stop offset="0" stop-color="#00FF9C"/>
-      <stop offset="1" stop-color="#66FFEA"/>
-    </linearGradient>
-  </defs>
-
-  <!-- background (transparent) -->
-  <rect width="100%" height="100%" fill="transparent"/>
 
   <!-- Blue/Red shadow layers for glitch -->
-  <g font-family="Fira Code,monospace,Segoe UI,Ubuntu,Arial" font-weight="700" font-size="36" filter="url(#grain)">
-    <text x="50" y="72" fill="#06f" opacity="0.85">
-      <tspan>👋 Hey, I'm Aswin Samuel.A</tspan>
-      <animate attributeName="x" values="48;56;50;47;50" dur="1.6s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.6;0.15;0.6;0.2;0.6" dur="1.6s" repeatCount="indefinite" />
-    </text>
-
-    <text x="50" y="72" fill="#ff0077" opacity="0.7">
-      <tspan>👋 Hey, I'm Aswin Samuel.A</tspan>
-      <animate attributeName="x" values="52;44;50;54;50" dur="1.2s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.5;0.12;0.5;0.12;0.5" dur="1.2s" repeatCount="indefinite" />
-    </text>
-  </g>
-
-  <!-- Main glowing text -->
-  <text x="50" y="72" font-family="Fira Code,monospace,Segoe UI,Ubuntu,Arial" font-weight="800" font-size="36" fill="url(#g1)">
-    <tspan>👋 Hey, I'm Aswin Samuel.A</tspan>
-    <!-- subtle horizontal pulse -->
-    <animate attributeName="opacity" values="1;0.85;1;0.9;1" dur="3s" repeatCount="indefinite" />
-  </text>
-
-  <!-- thin scanline flicker -->
-  <rect x="0" y="0" width="900" height="120" fill="#00FF9C" opacity="0">
-    <animate attributeName="opacity" values="0;0.02;0;0.015;0" dur="1.8s" repeatCount="indefinite" />
-  </rect>
-</svg>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
