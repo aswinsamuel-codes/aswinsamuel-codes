@@ -63,6 +63,16 @@ Built as a step toward emotionally adaptive personal AI systems.
 - 🚀 **Continuous Learner** – Dedicated to building technology that combines intelligence with purpose.
 
 ---
+## 🌍 Open-Source Contributions
+
+- 💻 Pushing AI, IoT, and Computer Vision projects under the **Apache 2.0 license**.  
+- 🧩 Actively building public repositories with transparent documentation & reproducible architectures.  
+- 🤝 Collaborating with developers to expand **human-centric AI systems** and real-time embedded intelligence.
+
+---
+
+> *“The future isn’t built in silence — it’s open-sourced.”* ⚡  
+> — Aswin Samuel A 
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -97,7 +107,6 @@ Built as a step toward emotionally adaptive personal AI systems.
 ---
 
 <p align="center">
-  <em>“Coding today for the intelligence of tomorrow.”</em> ⚡
 </p>
 
 <!-- Created & Designed by Aswin Samuel | Inspired by AI-driven innovation -->
