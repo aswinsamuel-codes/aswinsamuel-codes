@@ -49,8 +49,6 @@ Empowers safe navigation with obstacle detection, GPS guidance, and real-time vo
 🔹 **Buddy AI** — Context-Aware AI Companion that understands **emotion, speech, and visual cues** using NLP + Vision-based Learning.  
 Built as a step toward emotionally adaptive personal AI systems.  
 
-🔹 **EDITH Smart Glasses** — Futuristic Voice & Vision Glasses built with **Python, IoT, and ML**.  
-Provides gesture control, face recognition, and an augmented HUD interface for daily assistance.  
 
 ---
 
