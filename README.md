@@ -97,10 +97,6 @@ Built as a step toward emotionally adaptive personal AI systems.
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aswinsamuel-codes&label=Profile%20Views&color=00FF9C&icon=5&pretty=true" />
-</p>
-
-<p align="center">
   <em>“Coding today for the intelligence of tomorrow.”</em> ⚡
 </p>
 
