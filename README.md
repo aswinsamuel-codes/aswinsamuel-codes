@@ -55,11 +55,10 @@ Built as a step toward emotionally adaptive personal AI systems.
 ## 🏆 Achievements & Highlights
 
 - 🥇 **Top 6 in Google Hackathon 2025 ** – Recognized for real-world innovation in AI + accessibility tech.  
-- 💡 **Finalist – MSME Innovation Challenge** for *Digital Twin Healthcare System* proposal.  
 - 🤖 **AI Innovator at Karunya Innovation & Design Studio (KIDS)** – Mentored and developed advanced AI prototypes.  
 - 🧠 **Open Source Contributor** – Actively building and sharing AI-driven repositories on GitHub.  
 - 🧭 **Founder of Project “Buddy AI”** – Focused on making AI more empathetic and human-like.  
-- 🗣️ **Speaker & Tech Evangelist** – Delivered talks on *AI, Computer Vision, and Future Systems*.  
+- 🗣️ **Speaker** – Delivered talks on *AI, Computer Vision, and Future Systems*.  
 - 🚀 **Continuous Learner** – Dedicated to building technology that combines intelligence with purpose.
 
 ---
