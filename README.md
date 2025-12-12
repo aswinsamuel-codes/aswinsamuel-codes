@@ -104,35 +104,30 @@
 
 ---
 
-# 🌐 Connect with Me (Hover Animation Version)
-
-<!-- 🔥 HOVER BUTTON CSS -->
-<style>
-.hover-btn {
-  padding: 12px 22px;
-  margin: 8px;
-  border-radius: 8px;
-  background: #0A0A0A;
-  border: 1px solid #00FFE0;
-  color: #00FFE0;
-  font-family: 'Fira Code', monospace;
-  font-size: 15px;
-  text-decoration: none;
-  display: inline-block;
-  transition: 0.25s ease-in-out;
-}
-.hover-btn:hover {
-  background: #00FFE0;
-  color: #000;
-  transform: scale(1.08);
-  box-shadow: 0 0 12px #00FFE0, 0 0 24px #00FFE0;
-}
-</style>
-
+## 🌐 Connect with Me  
 <p align="center">
-  <a class="hover-btn" href="mailto:aswinsamuelofficial@gmail.com">Email</a>
-  <a class="hover-btn" href="https://linkedin.com/in/aswinsamuel">LinkedIn</a>
-  <a class="hover-btn" href="https://instagram.com/aswin_samuel__">Instagram</a>
+
+<!-- EMAIL BUTTON -->
+<a href="mailto:aswinsamuelofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F2EA&labelColor=000&color=0A0A0A"
+       onmouseover="this.style.filter='brightness(140%) drop-shadow(0 0 6px #00F2EA)';"
+       onmouseout="this.style.filter='brightness(100%)';" />
+</a>
+
+<!-- LINKEDIN BUTTON -->
+<a href="https://linkedin.com/in/aswinsamuel">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFE0&labelColor=000&color=0A0A0A"
+       onmouseover="this.style.filter='brightness(140%) drop-shadow(0 0 6px #00FFE0)';"
+       onmouseout="this.style.filter='brightness(100%)';" />
+</a>
+
+<!-- INSTAGRAM BUTTON -->
+<a href="https://instagram.com/aswin_samuel__">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FFD1&labelColor=000&color=0A0A0A"
+       onmouseover="this.style.filter='brightness(140%) drop-shadow(0 0 6px #00FFD1)';"
+       onmouseout="this.style.filter='brightness(100%)';" />
+</a>
+
 </p>
 
 ---
