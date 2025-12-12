@@ -2,6 +2,7 @@
 <!-- Futuristic GitHub Profile by Aswin Samuel | @aswinsamuel-codes -->
 <!-- ========================================================= -->
 
+<!-- 🔥 ASCII LOGO -->
 <p align="center">
 <span style="font-family: 'Lucida Console'; line-height: 14px; font-size: 14px; display: inline-block;">
 ░█▀▀▄░▒█▀▀▀█░▒█░░▒█░▀█▀░▒█▄░▒█░░░▒█▀▀▀█░█▀▀▄░▒█▀▄▀█░▒█░▒█░▒█▀▀▀░▒█░░░<br>
@@ -10,6 +11,7 @@
 </span>
 </p>
 
+<!-- 🔮 TITLE -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=750&lines=AI+%26+Computer+Vision+Innovator;Open-Source+Builder+%7C+Future-Tech+Creator;Top+6+Google+Hackathon+2025;Engineering+Human-Centered+Intelligence" />
@@ -22,10 +24,10 @@
 
 - 🧠 **AI & Computer Vision Innovator**  
 - 🔬 Building intelligent systems for **real-world global impact**  
-- 🌐 Dedicated **open-source contributor**, creating accessible AI technologies  
-- ⚡ Passionate about **Edge AI, IoT, and human-centric machine intelligence**  
+- 🌐 Dedicated **open-source contributor**  
+- ⚡ Passionate about **Edge AI, IoT & Real-Time Systems**  
 - 🚀 Believer in technology that **empowers people everywhere**  
-- 🌎 On a mission to build **future-proof AI** for the world  
+- 🌎 On a mission to create **human-centered intelligent systems**
 
 ---
 
@@ -38,11 +40,11 @@
 
 | Field | Tools |
 |------|-------|
-| **AI & ML** | PyTorch, TensorFlow, Scikit-Learn, Computer Vision, Deep Learning |
+| **AI & ML** | PyTorch, TensorFlow, Scikit-Learn, OpenCV |
 | **Programming** | Python, C++, Embedded C |
-| **Edge / IoT** | Raspberry Pi, ESP32, Real-Time Systems |
-| **Cloud & Deployment** | Google Cloud, Firebase |
-| **Design / Tools** | Figma, Canva, Adobe Suite |
+| **Edge / IoT** | Raspberry Pi, ESP32 |
+| **Cloud** | Google Cloud, Firebase |
+| **Design** | Figma, Canva, Adobe Suite |
 
 ---
 
@@ -62,20 +64,20 @@
 ## 🏆 Global Achievements
 
 - 🥇 **Top 6 – Google Hackathon 2025 (India Region)**  
-- 🤖 Recognized AI Innovator @ **Karunya Innovation & Design Studio (KIDS)**  
-- 🌐 Active **Open-Source Contributor** creating publicly available AI tools  
-- 🔥 Builder of scalable real-time AI systems used across multiple domains  
-- 🗣 Speaker on **AI, Vision Systems & Next-Gen Computing**
+- 🤖 AI Innovator @ **Karunya Innovation & Design Studio (KIDS)**  
+- 🌐 Open-Source Contributor for global AI tools  
+- 🔥 Builder of real-time, scalable ML systems  
+- 🗣 Speaker on **AI, Vision Systems & Future Computing**
 
 ---
 
 ## 🌐 Open-Source Impact
 
-- 💻 Publishing AI, IoT, and CV research openly  
-- 📦 Creating reproducible architectures for global developers  
-- 🤝 Collaborating internationally with open-source communities  
+- 💻 Publishing AI, IoT, and Vision research  
+- 📦 Developing reproducible open AI frameworks  
+- 🤝 Collaborating with global open-source communities  
 
-> *“Open-source is how the world builds faster.”*
+> *“Open-source is how the world builds together.”*
 
 ---
 
@@ -102,11 +104,35 @@
 
 ---
 
-## 🌐 Connect with Me  
+# 🌐 Connect with Me (Hover Animation Version)
+
+<!-- 🔥 HOVER BUTTON CSS -->
+<style>
+.hover-btn {
+  padding: 12px 22px;
+  margin: 8px;
+  border-radius: 8px;
+  background: #0A0A0A;
+  border: 1px solid #00FFE0;
+  color: #00FFE0;
+  font-family: 'Fira Code', monospace;
+  font-size: 15px;
+  text-decoration: none;
+  display: inline-block;
+  transition: 0.25s ease-in-out;
+}
+.hover-btn:hover {
+  background: #00FFE0;
+  color: #000;
+  transform: scale(1.08);
+  box-shadow: 0 0 12px #00FFE0, 0 0 24px #00FFE0;
+}
+</style>
+
 <p align="center">
-  <a href="mailto:aswinsamuelofficial@gmail.com"><img src="https://img.shields.io/badge/Email-00F2EA?style=for-the-badge&logo=gmail&logoColor=000"/></a>
-  <a href="https://linkedin.com/in/aswinsamuel"><img src="https://img.shields.io/badge/LinkedIn-00FFE0?style=for-the-badge&logo=linkedin&logoColor=000"/></a>
-  <a href="https://instagram.com/aswin_samuel__"><img src="https://img.shields.io/badge/Instagram-00FFD1?style=for-the-badge&logo=instagram&logoColor=000"/></a>
+  <a class="hover-btn" href="mailto:aswinsamuelofficial@gmail.com">Email</a>
+  <a class="hover-btn" href="https://linkedin.com/in/aswinsamuel">LinkedIn</a>
+  <a class="hover-btn" href="https://instagram.com/aswin_samuel__">Instagram</a>
 </p>
 
 ---
@@ -115,4 +141,4 @@
   <em style="color:#00FFCC;">“Engineering intelligence for a brighter world.”</em>
 </p>
 
-<!-- Created & Designed by Aswin Samuel | Dark Neon Edition -->
+<!-- END -->
