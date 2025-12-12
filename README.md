@@ -122,7 +122,7 @@
 </a>
 
 <!-- INSTAGRAM BUTTON -->
-<a href="https://instagram.com/aswin_samuel__">
+<a href="https://instagram.com/theaswinsamuel">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FFD1&labelColor=000&color=0A0A0A"
        onmouseover="this.style.filter='brightness(140%) drop-shadow(0 0 6px #00FFD1)';"
        onmouseout="this.style.filter='brightness(100%)';" />
