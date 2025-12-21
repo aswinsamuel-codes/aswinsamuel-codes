@@ -31,8 +31,6 @@
 
 ---
 
-## 🚀 Global Vision  
-> **“AI should be accessible, intelligent, and built openly for humanity.”**
 
 ---
 
@@ -56,28 +54,15 @@
 🔹 **Buddy AI** — Emotion + Context Aware Personal AI  
 → *Conversational Intelligence • CV + NLP Fusion*
 
-🔹 **EDITH Smart Glasses**  
-→ *Vision Assistant • Gesture Recognition • Real-Time HUD*
-
 ---
 
 ## 🏆 Global Achievements
 
 - 🥇 **Top 6 – Google Hackathon 2025 (India Region)**  
-- 🤖 AI Innovator @ **Karunya Innovation & Design Studio (KIDS)**  
 - 🌐 Open-Source Contributor for global AI tools  
 - 🔥 Builder of real-time, scalable ML systems  
 - 🗣 Speaker on **AI, Vision Systems & Future Computing**
 
----
-
-## 🌐 Open-Source Impact
-
-- 💻 Publishing AI, IoT, and Vision research  
-- 📦 Developing reproducible open AI frameworks  
-- 🤝 Collaborating with global open-source communities  
-
-> *“Open-source is how the world builds together.”*
 
 ---
 
