@@ -19,31 +19,6 @@
 </p>
 
 ---
-
-## 🌍 Who I Am
-
-- 🧠 **AI & Computer Vision Innovator**  
-- 🔬 Building intelligent systems for **real-world global impact**  
-- 🌐 Dedicated **open-source contributor**  
-- ⚡ Passionate about **Edge AI, IoT & Real-Time Systems**  
-- 🚀 Believer in technology that **empowers people everywhere**  
-- 🌎 On a mission to create **human-centered intelligent systems**
-
----
-
-
----
-
-## 🛠 Core Technologies
-
-| Field | Tools |
-|------|-------|
-| **AI & ML** | PyTorch, TensorFlow, Scikit-Learn, OpenCV |
-| **Programming** | Python, C++, Embedded C |
-| **Edge / IoT** | Raspberry Pi, ESP32 |
-| **Cloud** | Google Cloud, Firebase |
-| **Design** | Figma, Canva, Adobe Suite |
-
 ---
 
 ## 🌟 Flagship Projects
