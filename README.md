@@ -18,49 +18,6 @@
   </a>
 </p>
 
----
----
-
-## 🌟 Flagship Projects
-
-🔹 **NuvoCane** — AI-powered Smart Cane for visually impaired users  
-→ *Edge AI • Navigation Assistance • Object Detection*
-
-🔹 **Buddy AI** — Emotion + Context Aware Personal AI  
-→ *Conversational Intelligence • CV + NLP Fusion*
-
----
-
-## 🏆 Global Achievements
-
-- 🥇 **Top 6 – Google Hackathon 2025 (India Region)**  
-- 🌐 Open-Source Contributor for global AI tools  
-- 🔥 Builder of real-time, scalable ML systems  
-- 🗣 Speaker on **AI, Vision Systems & Future Computing**
-
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswinsamuel-codes&show_icons=true&theme=radical&count_private=true&hide_border=true&line_height=24)
-![GitHub Streak](https://streak-stats.demolab.com/?user=aswinsamuel-codes&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsamuel-codes&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=aswinsamuel-codes&theme=radical&no-frame=true&no-bg=true&margin-w=10)
-
-![Contributions](https://github-contributor-stats.vercel.app/api?username=aswinsamuel-codes&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
