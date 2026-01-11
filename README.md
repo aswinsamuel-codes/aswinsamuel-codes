@@ -18,7 +18,7 @@
   </a>
 </p>
 <p align="center">
-  <em style="color:#00FFCC;">“Engineering intelligence for a brighter world.”</em>
+  <em style="color:#00FFCC;">“Engineering intelligence ”</em>
 </p>
 
 <!-- END -->
