@@ -1,7 +1,6 @@
 <!-- ========================================================= -->
 <!-- Futuristic GitHub Profile by Aswin Samuel | @aswinsamuel-codes -->
 <!-- ========================================================= -->
-
 <!-- 🔥 ASCII LOGO -->
 <p align="center">
 <span style="font-family: 'Lucida Console'; line-height: 14px; font-size: 14px; display: inline-block;">
